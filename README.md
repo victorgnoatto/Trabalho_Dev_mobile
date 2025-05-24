@@ -27,8 +27,8 @@
 
 ## 🗂 Estrutura de Telas
 
-LoginScreen
-CadastroScreen
-HomeScreen (Catálogo)
-DetalhesScreen
+- LoginScreen
+- CadastroScreen
+- HomeScreen (Catálogo)
+- DetalhesScreen
 
